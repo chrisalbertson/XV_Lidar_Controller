@@ -1,5 +1,13 @@
 XV Lidar Controller
 ===================
+
+This is a port to the STM32F013 processor, specifically to the "Blue Pill" board that is commonly sold
+on eBay for under $3.  I credit those listed below as original authors.
+
+For more information of the target hardware you mau want to start here:
+https://wiki.stm32duino.com/index.php?title=Blue_Pil
+
+
 Copyright 2014-2018 James LeRoy getSurreal.com
 
 v1.4.0
