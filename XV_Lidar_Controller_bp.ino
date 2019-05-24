@@ -72,7 +72,7 @@ uint16_t angle;
 
 SerialCommand sCmd;
 
-//const int motorPin = PB9;   // Near the user LED
+
 const int motorPin = PB1;
 const int ledPin   = PC13;      
 boolean ledState   = HIGH;  // On the Blue Pill The LED of OFF when pin is high
@@ -766,7 +766,6 @@ void showConfig() {
 
   Serial.println(F(" "));
   Serial.println(F(" "));
-
 }
 
 void saveConfig() {
